@@ -50,5 +50,5 @@ Join our community of developers creating universal apps.
 
 
 ## Download The app 
-- [QRCodeAPP](https://expo.dev/artifacts/eas/dA1sAgYevBoU9eo4SXtgcC.apk)
+- [QRCodeAPP](https://expo.dev/artifacts/eas/pDGG55txk67Q5GaTQGexAA.apk)
 ##
